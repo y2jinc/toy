@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{72B42A19-4DB9-9015-0DB5-56A7497AC64D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Toy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine"
+			]
+		}
+	]
+}
